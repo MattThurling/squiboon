@@ -1,0 +1,87 @@
+{
+    "serious discussion": [
+        "Let's get into something serious",
+        "I want a serious talk",
+        "Can we be serious today",
+        "I would like to talk seriously",
+        "I need a serious discussion",
+        "Ooh, I'd like to get into a serious discussion.",
+        "I want to talk about something important.",
+        "Is it ok to discuss serious things",
+        "I am feeling like a serious discussion",
+        "Serious"
+    ],
+    "fun chat": [
+        "I just want to have fun",
+        "Let's keep it light",
+        "Always fun",
+        "Fun please",
+        "I want to talk about fun things",
+        "A fun chat",
+        "Can it be fun please",
+        "I would prefer a fun chat",
+        "I need some fun",
+        "A fun topic thank you"
+    ],
+    "register": [
+        "I want to register",
+        "Please register me",
+        "Can I register",
+        "I want to enter my details"
+    ],
+    "yes": [
+        "yes let's do it",
+        "that's for sure",
+        "for sure",
+        "absolutely",
+        "i suppose so",
+        "i guess so",
+        "yes that is correct",
+        "let's give it a try",
+        "please do",
+        "yeah correct"
+    ],
+    "no": [
+        "i don't think so",
+        "no",
+        "nope",
+        "nah",
+        "no way",
+        "let's hold off on that for now",
+        "we can come back to this later",
+        "let's revisit this later",
+        "bad idea",
+        "bad call",
+        "no not correct",
+        "that's wrong",
+        "no my name is jason actually",
+        "incorrect my address is on plymouth road",
+        "no you got my name and address wrong"
+    ],
+    "cancel": [
+        "cancel",
+        "call off",
+        "postpone",
+        "scrap that",
+        "let's drop the process",
+        "scrub that",
+        "abandon the process",
+        "revoke everything",
+        "write that off",
+        "repeal",
+        "forget about it"
+    ],
+    "provide name or age": [
+        "my name is Jason",
+        "sure here is my name and age",
+        "i am 81",
+        "you can call me brian",
+        "yea i can give you my age",
+        "you need my name and age? okay here they are",
+        "my first name is john age is 66",
+        "i am 90 years old",
+        "i am tony",
+        "here is my name",
+        "you can have my age here it is"
+    ]
+}
