@@ -166,7 +166,7 @@ walker init {
 }
 
 walker talk {
-  has request, interactive = true; // have set this to true as a workaround
+  has request, interactive = false;
   has wlk_ctx = {
     "intent": null,
     "entities": {},
